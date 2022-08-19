@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-
+/* ismael*/
 .Professional{
     width: 100%;
     height: 100vh;
@@ -58,37 +58,43 @@
 
 
 .midell{
-    max-width: 90%;
-    margin-left: 5%;
+    max-width: 100%;
     height: 50vh;
     background: white;
+    display: flex;
 }
 
 .component{
-    width: 24%;
-    height: 41.2vh;
+    height: 50vh;
     background: white;
-    margin-left: 89px;
-}
-
-.image img{
-    margin-left: -2px;
-    border: 2px solid gray;
-    padding: 45px;
-    padding-top: 10px;
-}
-
-.image h5{
-    font-size: 24px;
+    padding-left: 35px;
     text-align: center;
+}
+
+.component img{
+    margin: 0 55px;
+    border: 2px solid gray;
+    padding: 55px 25px ;
+    padding-top: 19px;
+    
+}
+
+.component h5{
+    font-size: 22px;
     margin-top: -60px;
-    margin-left: 4px;
+    cursor: pointer;
 
 }
 
-.m span{
-    margin-left: 120px;
+.component h5:hover{
+    color: #499afa;
+}
+
+.component span{
+    color: #499afa;
+    padding-top: -50px;
     font-size: 20px;
-    padding-bottom: 50px;
+    margin-top: -50px;
+    top: -90px;
 }
-
+/*end of ismael*/
