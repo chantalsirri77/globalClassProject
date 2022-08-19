@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.section{
+display: flex;
+justify-content: space-around;
+width: 75vw;
+margin-left: 15vw;
+margin-right: 10vw;
+height: 100vh;
+font-family: cursive;
+}
+.sub1{
+    width: 35vw;
+    height: 90vh;
+    margin-left: -80px;
+    margin-top: 10vh;
+}
+.sub1 h3{
+    color: #499afa;
+    font: 18px inter,sans-serif;
+}
+.sub1 h2{
+    font-size: 45px;
+    line-height: 1.35;
+}
+.sub1 p .sub1 li{
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sub2 {
+    margin-left: -10vw;
+}
+.sub2 img{
+    height: 90vh;
+    width: 30vw;
+}
