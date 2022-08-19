@@ -3,8 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+button {
+    cursor: pointer;
+}
 
-/* ismael*/
+/*start of my work ismael*/
 .Professional{
     width: 100%;
     height: 100vh;
@@ -97,4 +100,245 @@
     margin-top: -50px;
     top: -90px;
 }
-/*end of ismael*/
+/*end of my work ismael*/
+
+/*************************** start of my work  billy ***************************************/
+.proper_medical--services{
+    background-color: #eceff1;
+}
+.pulmonaries{
+    display: flex;
+    flex-wrap: wrap;
+}
+.service--banner{
+    margin:20px 0px 120px 0px; ;
+}
+.service--banner h4{
+    color:#213360;
+}
+ .service--banner h6{
+    text-align: center;
+    color: #499afa;
+}
+.service--banner h4, .service--banner h6{
+    text-align: center;
+    
+}
+
+.pulmonaries .pulmonary--content{
+    margin: 0px 0px 50px 40px;
+    background-color: #f8f9fa;
+    width: 400px;
+    height: 580px;
+}
+.pulmonary_image{
+    width: 250px;
+    height: 250px;
+    background-color: #eceff1;
+    border-radius: 50%;
+    margin: 50px;
+    
+}
+.pulmonary_image img{
+    width: 150px;
+    height: 150px;
+    margin:30px 0px 0px 55px;
+    /* padding: 30px 30px 0px 60px;; */
+    
+}
+.pulmonary--content .pulmonary--banner{
+    color:#213360;
+    font-size: 24px;
+}
+.pulmonary--content .banner_description{
+    color:#213360;
+    font-size: 15px;
+}
+/* ******************************************* end of my work billy ************************************* */
+
+
+/* *************************start of my work Randy ************************************* */
+.container
+{
+    width: 100%;
+    height: 700px;
+    background-color: #F5F5F5;
+    margin-top: 30px;
+    position: relative;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+}
+.content
+{
+  width: 50%;
+  height: 700px;
+  background-color: #F5F5F5;
+}
+.content img
+{
+    width: 130%;
+  height: 700px;
+  margin-left: -110px;
+}
+.content-text
+{
+    width: 50%;
+    height: 700px;
+    background-color: #F5F5F5;
+   justify-content: center;
+}
+.content-text h4
+{
+    color: lightblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    margin-left: 35px;
+    margin-top: 115px;
+}
+h6
+{
+    font-size: 45px;
+    margin-left: 35px;
+    margin-top: 20px;
+    color: #424242;
+}
+.profile
+{
+    width:90%;
+    height: 180px;
+    background-color: #F5F5F5;
+    margin-left: 35px;
+    margin-top: 35px;
+    display: flex;
+}
+.profile img
+{
+    width:85px;
+    height: 85px;
+}
+p 
+{
+    margin-left: 30px;
+    font-size: 25px;
+    text-align: justify;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;*/
+    font-family: cursive;
+    
+}
+.name
+{
+    width: 200px;
+    height: 40px;
+    background-color: #F5F5F5;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+h2
+{
+    font-size: 20px;
+}
+h5
+{
+    font-size: 15px;
+    margin-top: 10px;
+    color: lightblue;
+}
+/* *********************************** end of my work Randy *************************** */
+
+
+/* ************************************ start of my work Tracy ******************************** */
+h4{
+    color: #fff;
+    font-size: 30px;
+}
+h1{
+    color: #fff;
+    font-size: 50px;
+    padding: 15px;
+}
+.care-models{
+    position: relative;
+    padding: 25px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(31, 64, 164);
+    position: relative;
+    height: 500px;
+}
+.medical-images{
+    display: flex;
+    column-gap: 30px;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 125px;
+}
+.row{
+    position:relative; 
+}
+.row2{
+    margin-top: 0px;
+}
+.text1{
+    background: #fff;
+    color: #000;
+    font-size: 25px;
+    padding: 20px 10px;
+    width: 350px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    position: absolute;
+    top: -50px;
+    right: 15px;
+    left: 15px;
+
+}
+.text1:hover{
+    color: #499afa;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+.image2{
+    margin-top: -30px;
+}
+/* ************************************ end of my work Tracy ******************************** */
+
+/* ************************************** start of my work Merveille ******************************** */
+.section{
+    display: flex;
+    justify-content: space-around;
+    width: 75vw;
+    margin-left: 15vw;
+    margin-right: 10vw;
+    height: 100vh;
+    font-family: cursive;
+    }
+    .sub1{
+        width: 35vw;
+        height: 90vh;
+        margin-left: -80px;
+        margin-top: 10vh;
+    }
+    .sub1 h3{
+        color: #499afa;
+        font: 18px inter,sans-serif;
+    }
+    .sub1 h2{
+        font-size: 45px;
+        line-height: 1.35;
+    }
+    .sub1 p .sub1 li{
+       
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .sub2 {
+        margin-left: -10vw;
+    }
+    .sub2 img{
+        height: 90vh;
+        width: 30vw;
+    }
+    /* ************************************** end of my work Merveille ******************************** */
